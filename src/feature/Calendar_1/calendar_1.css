@@ -1,0 +1,84 @@
+/* ::-webkit-scrollbar-thumb {
+    background: $grey300;
+    border-radius: 9999px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: $grey400;
+    cursor: pointer !important;
+  } */
+
+.calendar-wrapper {
+  width: 80%;
+  /* background: red;
+    
+    height: 1000px; */
+}
+
+.fffffff {
+  border-radius: 10px;
+}
+.fffffffc:hover {
+  /* background: orange; */
+}
+.viewClassNames {
+}
+.xxxxccc:hover {
+  /* visibility: unset; */
+}
+.xxxx {
+  visibility: hidden;
+}
+.mmmmm {
+  width: 100%;
+  height: 100%;
+  background: teal;
+}
+.fc .fc-daygrid-day.fc-day-today {
+  /* background: red; */
+}
+.mmmmm:hover {
+  .xxxx {
+    visibility: visible;
+  }
+}
+.fc-timegrid-now-indicator-line {
+  /* color: orange; */
+  .indicator {
+    display: none;
+    color: orchid;
+  }
+}
+.fc-timegrid-now-indicator-arrow {
+}
+.fc-timegrid-col-frame {
+}
+/* .fc-timegrid-slot-label .fc-scrollgrid-shrink */
+.fc-timegrid-slot {
+  /* background: red; */
+}
+
+:root {
+  /* --fc-border-color: black;
+  --fc-daygrid-event-dot-width: 5px; */
+}
+.fc-timegrid-slot-label:hover{
+    background: red;
+    border: none;
+}
+.fc-timegrid-slot-lane:hover{
+    background: red;
+    border: none;
+}
+.fc-event:hover {
+    border-color: #87591c;
+  }
+  .fc-event:hover .fc-content {
+    color: #873a1c;
+  }
+
+
+  .iframe-class{
+    width: 100%;
+    min-height: 100vh;
+  }

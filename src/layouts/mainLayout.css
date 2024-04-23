@@ -1,0 +1,17 @@
+.layout-wrapper {
+  min-height: 100vh;
+  max-height: 100vh;
+  max-width: 100vw;
+  display: grid;
+  /* overflow-y: auto; */
+  grid-template-columns: 1fr;
+  grid-template-rows: min-content 1fr;
+
+  .outlet-wrapper {
+    /* background: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+  }
+}
